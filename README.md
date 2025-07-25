@@ -41,7 +41,7 @@ I'm a passionate developer from Indonesia 🇮🇩 who loves creating beautiful 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardhiarah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardhiarah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhiarah&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
