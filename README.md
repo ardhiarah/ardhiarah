@@ -1,7 +1,7 @@
 # Hi there, I'm ardhiarah! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things;JUST+DO+IT!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -61,7 +61,7 @@ I'm a passionate developer from Indonesia 🇮🇩 who loves creating beautiful 
 
 ## 🌟 Featured Projects
 
-### 🎨 [HeroUI JSX Initial](https://github.com/ardhiarah/heroui-jsx-initial)
+### 🎨 [HeroUI JSX Boilerplate](https://github.com/ardhiarah/heroui-jsx-initial)
 Modern UI components built with HeroUI and TailwindCSS v4
 - **Tech Stack:** JavaScript, HeroUI, TailwindCSS
 - **Features:** Responsive design, modern components
