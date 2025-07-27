@@ -61,7 +61,7 @@ Modern UI components built with HeroUI and TailwindCSS v4
 - **Tech Stack:** JavaScript, HeroUI, TailwindCSS
 - **Features:** Responsive design, modern components
 
-### ⚡ [PrelineUI Vite React Examples](https://github.com/ardhiarah/prelineUI-example-working-vite-react-jsx)
+### ⚡ [PrelineUI Vite React Boilerplate](https://github.com/ardhiarah/prelineUI-example-working-vite-react-jsx)
 Working templates for PrelineUI integration with Vite + React
 - **Tech Stack:** React, TypeScript/JavaScript, Vite, PrelineUI
 - **Purpose:** Help developers integrate PrelineUI seamlessly
