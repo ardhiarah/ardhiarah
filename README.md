@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer from Indonesia 🇮🇩 who loves creating beautiful and functional web applications. Currently exploring the exciting world of modern web technologies and UI frameworks.
+I'm ardhiarah, a passionate developer from Indonesia 🇮🇩 who loves creating beautiful and functional web applications. Currently exploring the exciting world of modern web technologies and UI frameworks.
 
 - 🔭 I'm currently working on **modern React applications with TypeScript**
 - 🌱 I'm currently learning **advanced React patterns and UI libraries**
