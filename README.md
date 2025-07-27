@@ -49,11 +49,6 @@ I'm a passionate developer from Indonesia 🇮🇩 who loves creating beautiful 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardhiarah&theme=tokyonight" alt="ardhiarah" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardhiarah&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5" alt="ardhiarah" />
-</div>
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardhiarah&theme=tokyo-night" alt="ardhiarah's github activity graph" />
